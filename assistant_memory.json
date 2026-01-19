@@ -1,0 +1,173 @@
+{
+  "concept_0_1760582336.281514": {
+    "id": "concept_0_1760582336.281514",
+    "content": "Functions encapsulate reusable logic",
+    "category": "concept",
+    "relevance_score": 1.0,
+    "timestamp": "2025-10-15T19:38:56.281528",
+    "usage_count": 0,
+    "success_rate": 1.0
+  },
+  "concept_1_1760582336.281809": {
+    "id": "concept_1_1760582336.281809",
+    "content": "Classes model objects with state and behavior",
+    "category": "concept",
+    "relevance_score": 1.0,
+    "timestamp": "2025-10-15T19:38:56.281812",
+    "usage_count": 0,
+    "success_rate": 1.0
+  },
+  "pattern_2_1760582336.282743": {
+    "id": "pattern_2_1760582336.282743",
+    "content": "List comprehensions provide concise iteration",
+    "category": "pattern",
+    "relevance_score": 1.0,
+    "timestamp": "2025-10-15T19:38:56.282749",
+    "usage_count": 1,
+    "success_rate": 0.7
+  },
+  "pattern_3_1760582336.282985": {
+    "id": "pattern_3_1760582336.282985",
+    "content": "Exception handling improves robustness",
+    "category": "pattern",
+    "relevance_score": 1.0,
+    "timestamp": "2025-10-15T19:38:56.282987",
+    "usage_count": 0,
+    "success_rate": 1.0
+  },
+  "best_practice_4_1760582336.283163": {
+    "id": "best_practice_4_1760582336.283163",
+    "content": "Type hints improve code clarity",
+    "category": "best_practice",
+    "relevance_score": 1.0,
+    "timestamp": "2025-10-15T19:38:56.283165",
+    "usage_count": 0,
+    "success_rate": 1.0
+  },
+  "learned_pattern_5_1760582336.283523": {
+    "id": "learned_pattern_5_1760582336.283523",
+    "content": "Query pattern: 'Create a function to calculate fibonacci...' was successful",
+    "category": "learned_pattern",
+    "relevance_score": 1.0,
+    "timestamp": "2025-10-15T19:38:56.283525",
+    "usage_count": 3,
+    "success_rate": 0.7899999999999999
+  },
+  "keyword_pattern_6_1760582336.283742": {
+    "id": "keyword_pattern_6_1760582336.283742",
+    "content": "Keyword 'create' associated with successful outcome",
+    "category": "keyword_pattern",
+    "relevance_score": 0.8,
+    "timestamp": "2025-10-15T19:38:56.283744",
+    "usage_count": 2,
+    "success_rate": 0.7
+  },
+  "keyword_pattern_7_1760582336.28395": {
+    "id": "keyword_pattern_7_1760582336.28395",
+    "content": "Keyword 'a' associated with successful outcome",
+    "category": "keyword_pattern",
+    "relevance_score": 0.8,
+    "timestamp": "2025-10-15T19:38:56.283952",
+    "usage_count": 2,
+    "success_rate": 0.7
+  },
+  "keyword_pattern_8_1760582336.284172": {
+    "id": "keyword_pattern_8_1760582336.284172",
+    "content": "Keyword 'function' associated with successful outcome",
+    "category": "keyword_pattern",
+    "relevance_score": 0.8,
+    "timestamp": "2025-10-15T19:38:56.284174",
+    "usage_count": 2,
+    "success_rate": 1.0
+  },
+  "best_practice_9_1760582336.284524": {
+    "id": "best_practice_9_1760582336.284524",
+    "content": "User profile classes should include validation methods",
+    "category": "best_practice",
+    "relevance_score": 1.0,
+    "timestamp": "2025-10-15T19:38:56.284526",
+    "usage_count": 0,
+    "success_rate": 1.0
+  },
+  "learned_pattern_10_1760582580.068668": {
+    "id": "learned_pattern_10_1760582580.068668",
+    "content": "Query pattern: 'Create a function to calculate fibonacci...' was successful",
+    "category": "learned_pattern",
+    "relevance_score": 1.0,
+    "timestamp": "2025-10-15T19:43:00.068672",
+    "usage_count": 2,
+    "success_rate": 0.7899999999999999
+  },
+  "keyword_pattern_11_1760582580.068979": {
+    "id": "keyword_pattern_11_1760582580.068979",
+    "content": "Keyword 'create' associated with successful outcome",
+    "category": "keyword_pattern",
+    "relevance_score": 0.8,
+    "timestamp": "2025-10-15T19:43:00.068982",
+    "usage_count": 0,
+    "success_rate": 1.0
+  },
+  "keyword_pattern_12_1760582580.069348": {
+    "id": "keyword_pattern_12_1760582580.069348",
+    "content": "Keyword 'a' associated with successful outcome",
+    "category": "keyword_pattern",
+    "relevance_score": 0.8,
+    "timestamp": "2025-10-15T19:43:00.069352",
+    "usage_count": 0,
+    "success_rate": 1.0
+  },
+  "keyword_pattern_13_1760582580.06989": {
+    "id": "keyword_pattern_13_1760582580.06989",
+    "content": "Keyword 'function' associated with successful outcome",
+    "category": "keyword_pattern",
+    "relevance_score": 0.8,
+    "timestamp": "2025-10-15T19:43:00.069893",
+    "usage_count": 1,
+    "success_rate": 1.0
+  },
+  "best_practice_14_1760582580.070353": {
+    "id": "best_practice_14_1760582580.070353",
+    "content": "User profile classes should include validation methods",
+    "category": "best_practice",
+    "relevance_score": 1.0,
+    "timestamp": "2025-10-15T19:43:00.070355",
+    "usage_count": 0,
+    "success_rate": 1.0
+  },
+  "learned_pattern_15_1760583650.265523": {
+    "id": "learned_pattern_15_1760583650.265523",
+    "content": "Query pattern: 'function for reverse linkedlist...' was successful",
+    "category": "learned_pattern",
+    "relevance_score": 1.0,
+    "timestamp": "2025-10-15T20:00:50.265618",
+    "usage_count": 0,
+    "success_rate": 1.0
+  },
+  "keyword_pattern_16_1760583650.26675": {
+    "id": "keyword_pattern_16_1760583650.26675",
+    "content": "Keyword 'function' associated with successful outcome",
+    "category": "keyword_pattern",
+    "relevance_score": 0.8,
+    "timestamp": "2025-10-15T20:00:50.266758",
+    "usage_count": 0,
+    "success_rate": 1.0
+  },
+  "keyword_pattern_17_1760583650.267593": {
+    "id": "keyword_pattern_17_1760583650.267593",
+    "content": "Keyword 'for' associated with successful outcome",
+    "category": "keyword_pattern",
+    "relevance_score": 0.8,
+    "timestamp": "2025-10-15T20:00:50.267598",
+    "usage_count": 0,
+    "success_rate": 1.0
+  },
+  "keyword_pattern_18_1760583650.268397": {
+    "id": "keyword_pattern_18_1760583650.268397",
+    "content": "Keyword 'reverse' associated with successful outcome",
+    "category": "keyword_pattern",
+    "relevance_score": 0.8,
+    "timestamp": "2025-10-15T20:00:50.268402",
+    "usage_count": 0,
+    "success_rate": 1.0
+  }
+}
